@@ -1,5 +1,5 @@
 # House Pricing Prediction
-House Pricing Prediction
+House pricing prediction using linear regression
 
 # Conclusion
 The Housing Price Prediction project aimed to design a regression model to predict the median house value based on various input attributes for California district blocks. The dataset consisted of geographical coordinates, housing statistics, and other relevant features.
